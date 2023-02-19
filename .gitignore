@@ -23,3 +23,6 @@
 hs_err_pid*
 
 /src/main/api_keys.xml
+
+.env
+.idea
